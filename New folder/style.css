@@ -1,0 +1,7 @@
+.auth-main .error{
+    color: #ff3860;
+    font-size: 12px;
+}
+.success input {
+    border-color: #09c372;
+}

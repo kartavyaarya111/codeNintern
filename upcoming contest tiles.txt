@@ -1,0 +1,42 @@
+Coding ninja
+
+
+<!-- Blog Item -->
+                            <div class="col-md-4 blog-item-wrapper" data-aos="fade-up" data-aos-delay="200">
+                                <div class="blog-item">
+                                    <div class="blog-img">
+                                        <a href="https://www.codingninjas.com/codestudio/contests/codestudio-beginner-contest-34"><img src="img/ninja.jpeg" alt=""></a>
+                                    </div>
+                                    <div class="blog-text">
+                                        <div class="blog-tag">
+                                            <a href="https://www.codingninjas.com/codestudio/contests/codestudio-beginner-contest-34"><h6><small>Weekly Contest</small></h6></a>
+                                        </div>
+                                        <div class="blog-title">
+                                            <a href="https://www.codingninjas.com/codestudio/contests/codestudio-beginner-contest-34"><h4>Code Studio</h4></a>
+                                        </div>
+                                        <div class="blog-meta">
+                                            <p class="blog-date">Date: </p> 
+                                            <p class="blog-comment"><a href="https://www.codingninjas.com/codestudio/contests/codestudio-beginner-contest-34">17 May</a></p>
+                                        </div>
+                                        <div class="blog-meta">
+                                            <p class="blog-date">Timing: </p> 
+                                            <p class="blog-comment"><a href="https://www.codingninjas.com/codestudio/contests/codestudio-beginner-contest-34">9 PM to 10:30 PM</a></p>
+                                        </div>
+                                        <div class="blog-desc">
+                                            <p>CodeStudio special coding contests. Coding contests are a great way for students and professionals to improve their coding skills. By solving problems and learning new concepts, coders can gain valuable experience that can help them in their careers.</p>
+                                        </div>
+                                        <div class="blog-author">
+                                            <p>by codeNintern</p>
+                                        </div>
+                                        <div class="blog-share-wrapper">
+                                            <a class="blog-share" href="https://www.linkedin.com/company/code-studio-inc">
+                                                <i class="fab fa-linkedin-in"></i>
+                                            </a>
+                                            <a class="blog-share" href="https://twitter.com/code_studio">
+                                                <i class="fab fa-twitter-square"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End of Blog Item -->

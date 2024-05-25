@@ -1,0 +1,219 @@
+GFG
+
+
+
+<!-- Blog Item -->
+                            <div class="col-md-4 blog-item-wrapper" data-aos="fade-up" data-aos-delay="200">
+                                <div class="blog-item">
+                                    <div class="blog-img">
+                                        <a href="https://practice.geeksforgeeks.org/contest/gfg-weekly-coding-contest-102"><img src="img/gfg.png" alt=""></a>
+                                    </div>
+                                    <div class="blog-text">
+                                        <div class="blog-tag">
+                                            <a href="https://practice.geeksforgeeks.org/contest/gfg-weekly-coding-contest-102"><h6><small>Weekly Contest</small></h6></a>
+                                        </div>
+                                        <div class="blog-title">
+                                            <a href="https://practice.geeksforgeeks.org/contest/gfg-weekly-coding-contest-102"><h4>GFG</h4></a>
+                                        </div>
+                                        <div class="blog-meta">
+                                            <p class="blog-date">Timing: </p> 
+                                            <p class="blog-comment"><a href="https://practice.geeksforgeeks.org/contest/gfg-weekly-coding-contest-102">7 PM to 8:30 PM</a></p>
+                                        </div>
+                                        <div class="blog-desc">
+                                            <p>
+                                                This contest is part of GFF Weekly Coding Contest. <br>
+    Looking to flex your coding muscles and sharpen your skills? Join GF Weekly Coding Contest - where the only thing sharper than the code is the
+    wit of all the participants!</p>
+                                        </div>
+                                        <div class="blog-author">
+                                            <p>by codeNintern</p>
+                                        </div>
+                                        <div class="blog-share-wrapper">
+                                            <a class="blog-share" href="https://in.linkedin.com/company/geeksforgeeks">
+                                                <i class="fab fa-linkedin-in"></i>
+                                            </a>
+                                            <a class="blog-share" href="https://twitter.com/geeksforgeeks?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+                                                <i class="fab fa-twitter-square"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End of Blog Item -->
+
+
+
+
+
+
+
+
+
+
+
+
+Leetcode
+
+
+<!-- Blog Item -->
+                            <div class="col-md-4 blog-item-wrapper" data-aos="fade-up">
+                                <div class="blog-item">
+                                    <div class="blog-img">
+                                        <a href="https://leetcode.com/contest/weekly-contest-345/"><img src="img/leetcode1.png" alt=""></a>
+                                    </div>
+                                    <div class="blog-text">
+                                        <div class="blog-tag">
+                                            <a href="https://leetcode.com/contest/weekly-contest-345/"><h6><small>Weekly Contest</small></h6></a>
+                                        </div>
+                                        <div class="blog-title">
+                                            <a href="https://leetcode.com/contest/weekly-contest-345/"><h4>Leetcode</h4></a>
+                                        </div>
+                                        <div class="blog-meta">
+                                            <p class="blog-date">Timing:</p> 
+                                            <p class="blog-comment"><a href="https://leetcode.com/contest/weekly-contest-345/">8 AM to 9:30 AM </a></p>
+                                        </div>
+                                        <div class="blog-desc">
+                                            <p>The Leetcode Weekly Contest is a weekly programming competition organized by Leetcode. It typically takes place on Sundays and consists of a set of algorithmic problems that participants have to solve within a time limit of two hours.</p>
+                                        </div>
+                                        <div class="blog-author">
+                                            <p>by codeNintern</p>
+                                        </div>
+                                        <div class="blog-share-wrapper">
+                                            <a class="blog-share" href="https://www.linkedin.com/company/leet-code">
+                                                <i class="fab fa-linkedin-in"></i>
+                                            </a>
+                                            <a class="blog-share" href="https://twitter.com/LeetCode?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+                                                <i class="fab fa-twitter-square"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End of Blog Item -->
+
+
+Coding Ninja
+
+
+
+<!-- Blog Item -->
+                            <div class="col-md-4 blog-item-wrapper" data-aos="fade-up" data-aos-delay="200">
+                                <div class="blog-item">
+                                    <div class="blog-img">
+                                        <a href="https://www.codingninjas.com/codestudio/contests/cracking-google-dypcet"><img src="img/ninja.jpeg" alt=""></a>
+                                    </div>
+                                    <div class="blog-text">
+                                        <div class="blog-tag">
+                                            <a href="https://www.codingninjas.com/codestudio/contests/cracking-google-dypcet"><h6><small>Cracking Google || DYPCET</small></h6></a>
+                                        </div>
+                                        <div class="blog-title">
+                                            <a href="https://www.codingninjas.com/codestudio/contests/cracking-google-dypcet"><h4>Coding Ninja</h4></a>
+                                        </div>
+                                        <div class="blog-meta">
+                                            <p class="blog-date">Timing: </p> 
+                                            <p class="blog-comment"><a href="https://www.codingninjas.com/codestudio/contests/cracking-google-dypcet">Between 10 AM to 8 PM</a></p>
+                                        </div>
+                                        <div class="blog-desc">
+                                            <p>CodeStudio special coding contests. Coding contests are a great way for students and professionals to improve their coding skills. By solving problems and learning new concepts, coders can gain valuable experience that can help them in their careers.</p>
+                                        </div>
+                                        <div class="blog-author">
+                                            <p>by codeNintern</p>
+                                        </div>
+                                        <div class="blog-share-wrapper">
+                                            <a class="blog-share" href="https://www.linkedin.com/company/code-studio-inc">
+                                                <i class="fab fa-linkedin-in"></i>
+                                            </a>
+                                            <a class="blog-share" href="https://twitter.com/code_studio">
+                                                <i class="fab fa-twitter-square"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End of Blog Item -->
+
+
+
+codeforces
+
+
+<!-- Blog Item -->
+                            <div class="col-md-4 blog-item-wrapper" data-aos="fade-up" data-aos-delay="200">
+                                <div class="blog-item">
+                                    <div class="blog-img">
+                                        <a href="https://codeforces.com/contestRegistration/1828"><img src="img/cf.jpg" alt=""></a>
+                                    </div>
+                                    <div class="blog-text">
+                                        <div class="blog-tag">
+                                            <a href="https://codeforces.com/contestRegistration/1828"><h6><small>Division 2</small></h6></a>
+                                        </div>
+                                        <div class="blog-title">
+                                            <a href="https://codeforces.com/contestRegistration/1828"><h4>CodeForces</h4></a>
+                                        </div>
+                                        <div class="blog-meta">
+                                            <p class="blog-date">Timing: </p> 
+                                            <p class="blog-comment"><a href="https://codeforces.com/contestRegistration/1828">8:05 PM</a></p>
+                                        </div>
+                                        <div class="blog-desc">
+                                            <p>Division 2 contests are designed for participants with a rating lower than 2100. Practice regularly, Study the editorials, Join a study group, Don't be afraid to ask for help. </p>
+                                        </div>
+                                        <div class="blog-author">
+                                            <p>by codeNintern</p>
+                                        </div>
+                                        <div class="blog-share-wrapper">
+                                            <a class="blog-share" href="https://www.linkedin.com/company/codeforces01">
+                                                <i class="fab fa-linkedin-in"></i>
+                                            </a>
+                                            <a class="blog-share" href="https://twitter.com/codeforces?lang=en#:~:text=Codeforces%20(%40codeforces)%20%2F%20Twitter">
+                                                <i class="fab fa-twitter-square"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End of Blog Item -->
+
+
+
+
+Codeforces
+
+
+
+<!-- Blog Item -->
+                            <div class="col-md-4 blog-item-wrapper" data-aos="fade-up" data-aos-delay="400">
+                                <div class="blog-item">
+                                    <div class="blog-img">
+                                        <a href="https://codeforces.com/contestRegistration/1827"><img src="img/cf.jpg" alt=""></a>
+                                    </div>
+                                    <div class="blog-text">
+                                        <div class="blog-tag">
+                                            <a href="https://codeforces.com/contestRegistration/1827"><h6><small>Divsion 1</small></h6></a>
+                                        </div>
+                                        <div class="blog-title">
+                                            <a href="https://codeforces.com/contestRegistration/1827"><h4>Codeforces</h4></a>
+                                        </div>
+                                        <div class="blog-meta">
+                                            <p class="blog-date">Timing: </p> 
+                                            <p class="blog-comment"><a href="https://codeforces.com/contestRegistration/1827">8:05 PM</a></p>
+                                        </div>
+                                        <div class="blog-desc">
+                                            <p>Codeforces is a platform for competitive programming. It hosts regular contests, including division 1 contests. Division 1 contests are designed for participants with a rating of 2100 or higher.</p>
+                                        </div>
+                                        <div class="blog-author">
+                                            <p>by codeNintern</p>
+                                        </div>
+                                        <div class="blog-share-wrapper">
+                                            <a class="blog-share" href="https://www.linkedin.com/company/codeforces01">
+                                                <i class="fab fa-linkedin-in"></i>
+                                            </a>
+                                            <a class="blog-share" href="https://twitter.com/codeforces?lang=en#:~:text=Codeforces%20(%40codeforces)%20%2F%20Twitter">
+                                                <i class="fab fa-twitter-square"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End of Blog Item -->
+
+
