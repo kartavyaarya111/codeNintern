@@ -2,10 +2,7 @@
 <html lang="en">
 
 <head>
-    <!--
-     - Roxy: Bootstrap template by GettTemplates.com
-     - https://gettemplates.co/roxy
-    -->
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>codeNintern.com</title>
@@ -134,14 +131,13 @@
                             </div>
                             <div id="error_msg"></div>
                             <div class="col-md-12 text-center">
-                                <button class="btn btn-primary btn-shadow btn-lg" type="submit" name="submit" value="submit" onclick="openPopup()">Send Message</button>
+                                <button class="btn btn-primary btn-shadow btn-lg" type="submit" name="submit" value="submit"  onclick="openPopup()">Send Message</button>
                             </div>
 
                             <!-- popup -->
                             <div class="popup" id="popup">
                                     <img src="img/tick.png" alt="">
-                                    
-                                    <h2>Thank You!</h2>
+                                    <h4>Thank You!</h4>
                                     <p>Your details have been succesfully submitted. Thank You!</p>
                                     <button type="button" name="button" onclick="closePopup()">OK</button>
                             </div>
